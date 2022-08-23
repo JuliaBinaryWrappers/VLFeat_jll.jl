@@ -1,0 +1,143 @@
+[[VLFeat]]
+arch = "aarch64"
+git-tree-sha1 = "5fffb0aa74724f4a959556af391c40df53925660"
+os = "macos"
+
+    [[VLFeat.download]]
+    sha256 = "b1dbc15f066fd7c602e7401a59219d6adbcff814cb6da8661dc5476af5c9ffee"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.aarch64-apple-darwin.tar.gz"
+[[VLFeat]]
+arch = "aarch64"
+git-tree-sha1 = "b34ce55ab535ec287346da25da2affe6fbf62a7b"
+libc = "glibc"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "8d66cb72108d4aa094238a07c76f024bb127f4683ceaf255d1147edef9d2562e"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.aarch64-linux-gnu.tar.gz"
+[[VLFeat]]
+arch = "aarch64"
+git-tree-sha1 = "e3ddb527505f04773e3cebc4932c19305e077271"
+libc = "musl"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "e811ef7d784c78a7efe907ba25f32c2d016d3e03816f322d66fe41a1fd1f379d"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.aarch64-linux-musl.tar.gz"
+[[VLFeat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3c0a9a237f6f01c05dc8889959774d1137be2802"
+libc = "glibc"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "480d8d2d31a0a4793ac4f1f765f24714d24430fbcf5340190584cd6f2d401b31"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.armv6l-linux-gnueabihf.tar.gz"
+[[VLFeat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "598cbdacb9f718c305fc78d4e2dd77877eeb8396"
+libc = "musl"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "3e0162531b5a49f5f3022470111cf3827c11ab12a5f86ad48a54f0106812bb8a"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.armv6l-linux-musleabihf.tar.gz"
+[[VLFeat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ad5347f298b449ae3d65c9d52171794935092ab3"
+libc = "glibc"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "05d5cb068e2c09259a9c911aef6707e66b7b0196e8fc1ba7d45ed98378388bfc"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.armv7l-linux-gnueabihf.tar.gz"
+[[VLFeat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e713ffee3ed9cbee8ded55683b9108a6a57b7790"
+libc = "musl"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "c8068102ac1f6a79adbf2b0231a72548dade96f62689cfc2e9b3d7dd8feb666b"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.armv7l-linux-musleabihf.tar.gz"
+[[VLFeat]]
+arch = "i686"
+git-tree-sha1 = "5df61f8ca953c00225be6be31cdff7412d4c0f36"
+libc = "glibc"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "ad7770a00ad9c4999527209d1cd9831e743f64a94f7a9ca32eec36d7047ac25a"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.i686-linux-gnu.tar.gz"
+[[VLFeat]]
+arch = "i686"
+git-tree-sha1 = "101dc23b2e08eeeeaa1be31025fe9b0ec05caaf3"
+libc = "musl"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "2d69689eb726937d0732dfae84f9f9c44bb376d071e7ffeb28ffc7f8c2ee58c2"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.i686-linux-musl.tar.gz"
+[[VLFeat]]
+arch = "i686"
+git-tree-sha1 = "fc7ec65bbe0a3c872238a0a87fded688ff8191b4"
+os = "windows"
+
+    [[VLFeat.download]]
+    sha256 = "17a64f3294d43638b986d7d9bef9946e04624414c1a437638651ab3c480f8b1d"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.i686-w64-mingw32.tar.gz"
+[[VLFeat]]
+arch = "powerpc64le"
+git-tree-sha1 = "adcce2efa58feb637d228f4d2252f4ebb91836cb"
+libc = "glibc"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "cacbee87ec06c994e1b3a56fcfb1f1e2baa62ac4539534d11f5536c081fda406"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.powerpc64le-linux-gnu.tar.gz"
+[[VLFeat]]
+arch = "x86_64"
+git-tree-sha1 = "f04f755302714dc13a605e5c239ee2a8072e62a5"
+os = "macos"
+
+    [[VLFeat.download]]
+    sha256 = "d3a07e1b0088d34bf32f0cf1e8e104985278d6e99342aa419d8deafd8c31a70f"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.x86_64-apple-darwin.tar.gz"
+[[VLFeat]]
+arch = "x86_64"
+git-tree-sha1 = "127a74cd511605672f9321ce8cc7629b3c9080a9"
+libc = "glibc"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "617e94c3887638b8b70d1bc5f82cb8f2e7662aeb9d13736f39e6c91789d0fbf8"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.x86_64-linux-gnu.tar.gz"
+[[VLFeat]]
+arch = "x86_64"
+git-tree-sha1 = "498106060b9af273f78d52b59803ed25b87bb39d"
+libc = "musl"
+os = "linux"
+
+    [[VLFeat.download]]
+    sha256 = "f8ccc22913f05757bbd8f1a0da8bb3e90c4ab937f5e60509012c1784376d7557"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.x86_64-linux-musl.tar.gz"
+[[VLFeat]]
+arch = "x86_64"
+git-tree-sha1 = "69cf996d7a8e4189eecbc575818841135f2b9363"
+os = "freebsd"
+
+    [[VLFeat.download]]
+    sha256 = "10c0106241c415015c5511cda3341fefc92298a5737f36d52b17198709bf5278"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.x86_64-unknown-freebsd.tar.gz"
+[[VLFeat]]
+arch = "x86_64"
+git-tree-sha1 = "235bfce2e8152bae77b320ced34651081343e2d2"
+os = "windows"
+
+    [[VLFeat.download]]
+    sha256 = "20d7c8da52480302073f3ce8a17430f649b69f19132131c304b491a370b352a6"
+    url = "https://github.com/JuliaBinaryWrappers/VLFeat_jll.jl/releases/download/VLFeat-v0.9.21+0/VLFeat.v0.9.21.x86_64-w64-mingw32.tar.gz"
